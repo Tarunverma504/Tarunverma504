@@ -20,6 +20,7 @@
     <a href=""><img src="/logos/facebook.png" width="40" /></a>
     <a href=""><img src="/logos/google-plus.png" width="40" /></a>
     <a href=""><img src="/logos/instagram.png" width="40" /></a>
+    <br>
      <h3 aling="left">What I do? 👨‍💻</h3>
     <img align='right' src="/logos/giphy.webp" alt="eatsleepcode" width="230" height="200" />
     <details>
@@ -35,11 +36,30 @@
         </ul>
     </details>
     
- <details>
- <summary><h2>Tech Stack I am Working On::</h2></summary>
-        <ul>
-            <li> <div align="left">
-        <img  alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
+### Tech Stack I am Working On :: 💻⚡
+
+<details>
+ 
+
+<summary>Click Me 😄⚡❤️</summary>
+    <div align="left">
+    <img  alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
+    <img  alt="CSS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001884-ac0f1900-e5ea-11ea-917d-581a2bf97cad.png" />
+    <img  alt="JS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001923-c6e18d80-e5ea-11ea-902a-ed8d23532b15.png" />
+    <img  alt="Bootstrap" height="60px" src="https://user-images.githubusercontent.com/38128234/91002197-9f3ef500-e5eb-11ea-91fd-e8bbe7c96815.png" /><br><br>
+    <img  alt="React" height="55px" src="https://user-images.githubusercontent.com/38128234/91002026-11630a00-e5eb-11ea-8b1d-622f5bcbd379.png" />
+    <img  alt="NodeJS" height="50px" src="https://user-images.githubusercontent.com/38128234/91002261-ca294900-e5eb-11ea-982c-823af32712c3.png" />
+    <img  alt="MYSQL" height="50px" src="https://user-images.githubusercontent.com/38128234/91002348-08bf0380-e5ec-11ea-8b47-dd4825ca9b9b.png" />
+    <img  alt="Bot" height="50px" src="https://user-images.githubusercontent.com/38128234/91002612-c2b66f80-e5ec-11ea-86f8-988054ed884f.png" /><br><br>
+    <img  alt="java" height="50px" src="/logos/java.png" />
+    <img alt="cpp" height="50px" src="/logos/cpp.png"/>
+    <img  alt="Mongodb" height="50px" src="/logos/mongodb.png" />
+    <img  alt="postman" height="50px" src="/logos/postman.png" />
+    </div>
+</details>
+<!--  <summary><h2>Tech Stack I am Working On::</h2></summary>
+     <div align="left">
+     <img  alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
     <img  alt="CSS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001884-ac0f1900-e5ea-11ea-917d-581a2bf97cad.png" />
     <img  alt="JS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001923-c6e18d80-e5ea-11ea-902a-ed8d23532b15.png" />
     <img  alt="Bootstrap" height="60px" src="https://user-images.githubusercontent.com/38128234/91002197-9f3ef500-e5eb-11ea-91fd-e8bbe7c96815.png" /><br><br>
@@ -48,9 +68,8 @@
     <img  alt="MYSQL" height="50px" src="https://user-images.githubusercontent.com/38128234/91002348-08bf0380-e5ec-11ea-8b47-dd4825ca9b9b.png" />
     <img  alt="Bot" height="50px" src="https://user-images.githubusercontent.com/38128234/91002612-c2b66f80-e5ec-11ea-86f8-988054ed884f.png" />
     
-    </div></li>
-        </ul>
-    </details>
+    </div>
+    </details> -->
 <!-- ### Tech Stack I am Working On:: -->
 <!--    <img align="left" alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
     <img align="left" alt="CSS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001884-ac0f1900-e5ea-11ea-917d-581a2bf97cad.png" />
@@ -64,7 +83,7 @@
     <br/>
     <p>&nbsp</p>
     <br> -->
-<br><h3>What if you like my work? 🤩</h3>
+<h3>What if you like my work? 🤩</h3>
    <ul>
         <li>You can Star ⭐ the repositories you like.</li>
         <li>You can react ❤️ to my LinkedIn posts.</li>
