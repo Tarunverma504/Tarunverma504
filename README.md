@@ -35,8 +35,8 @@
         </ul>
     </details>
     <br>
-    ### Tech Stack I am Working On::<br/><br/>
-    <img align="left" alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
+### Tech Stack I am Working On::<br/><br/>
+   <img align="left" alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
     <img align="left" alt="CSS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001884-ac0f1900-e5ea-11ea-917d-581a2bf97cad.png" />
     <img align="left" alt="JS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001923-c6e18d80-e5ea-11ea-902a-ed8d23532b15.png" />
     <img align="left" alt="Bootstrap" height="60px" src="https://user-images.githubusercontent.com/38128234/91002197-9f3ef500-e5eb-11ea-91fd-e8bbe7c96815.png" />
@@ -46,9 +46,8 @@
     <img align="left" alt="Bot" height="50px" src="https://user-images.githubusercontent.com/38128234/91002612-c2b66f80-e5ec-11ea-86f8-988054ed884f.png" />
     <br/>
     <br/>
-    <p>&nbsp</p>
-    <h3 align='left'>What if you like my work? 🤩</h3>
-    <ul>
+   ### What if you like my work? 🤩
+   <ul>
         <li>You can Star ⭐ the repositories you like.</li>
         <li>You can react ❤️ to my LinkedIn posts.</li>
     </ul>
