@@ -22,7 +22,7 @@
     <a href=""><img src="/logos/instagram.png" width="40" /></a>
     <br>
      <h3 aling="left">What I do? 👨‍💻</h3>
-    <img align='right' src="/logos/giphy.webp" alt="eatsleepcode" width="230" height="200" />
+<!--     <img align='right' src="/logos/giphy.webp" alt="eatsleepcode" width="230" height="200" /> -->
     <details>
         <summary>Full Stack Developer 🍥</summary>
             <ul>
